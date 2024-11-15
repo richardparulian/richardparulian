@@ -1,4 +1,5 @@
 ## Hi there 👋
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/ad93a0e2-5c95-4c0e-b75b-ff2ce739a1ac)
 
 <!--
 **richardparulian/richardparulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
